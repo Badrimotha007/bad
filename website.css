@@ -1,0 +1,100 @@
+.ok{
+  background-color: red;
+  color: white;
+  margin-top: 50px;
+  font-size:large;
+  border: 40px;
+  padding-right: 10px;  
+  padding-left: 10px;
+  width:120;
+  }
+            .bad{
+             background-color: rgb(190, 84, 84);
+             color: white;
+             border:solid;
+             height:25px;
+             width:90px; 
+             font-size:medium;
+             border-radius: 9 px;
+             cursor: pointer;
+             margin-right: 10px;
+             transition: box-shadow 0.15s;
+        
+             transition: background-color 1s;
+            }
+        .bad:hover { 
+          background-color: green;
+          transition-duration: 1s;
+          opacity: 0.15s;
+        }
+        .bad:active {
+          background-color: rgb(6, 6, 112);
+          transition-duration: 1s;
+          opacity: 0
+          box-shadow: none;
+          top: 8px;
+        } 
+        .motha-button{
+          color: rgb(64, 122, 209);
+          font-size:small;
+          border-radius: 13px;
+          border-color:rgb(64, 122, 209);
+          transition:background-color 0s;
+          cursor:pointer;
+          box-shadow: 0px 4px 6px;
+        
+        
+        }
+        .motha-button:hover{
+        background-color:rgb(64, 122, 209);
+        color:white;
+        transition-duration: 1s;
+        transition:background-color 0s;
+        box-shadow:0px 2px 7px ;
+        }
+.motha-button:active{
+  background-color: rgb(64, 122, 209);
+  transition-duration: 1s;
+  opacity: 0
+ top: 8px;
+ }
+        .insta-button{
+          color:white;
+          background-color:  rgb(223, 64, 59);
+          border-top-left-radius: 0ch;
+          border-radius: 10px;
+          font-size: small;
+          height: 27;
+          width: 85;
+          font-weight: bold;
+          margin-left: 20px;
+          margin-right:20px;
+          box-shadow: 6px 4px 8px rgb(223, 64, 59);
+        }
+.insta-button:hover{
+  background-color: rgb(14, 12, 15);
+  transition-duration: 0.5s;
+  opacity:0.15s;
+}        
+.search{
+  border-color: blueviolet;
+  font-size: 30px;
+  margin-left: 50px;
+  margin-bottom: 50px;
+} 
+.class{
+  width: 100;
+}
+.lolo,
+.lo{
+  display: inline-block;
+}
+.ok{
+  width: 150px;
+  size
+}
+.ok,
+.search{
+  display:inline-block;
+}
+   
